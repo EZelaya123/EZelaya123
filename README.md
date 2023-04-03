@@ -8,7 +8,7 @@
     I work as a Web :Frontend Web Developer!
   </samp>
 </p>
-
+<a href="https://raw.githubusercontent.com/EZelaya123/EZelaya123/main/Curriculum%20_vitae_28-2-23.pdf" download="Acme Documentation (ver. 2.0.1).txt">Curriculum Vitae</a>
 <p align="center"> 
   <i> Let's connect and chat! :incoming_envelope: </i>
 </p>
@@ -18,7 +18,7 @@
 <a href="https://www.facebook.com/estebanzelaya123/"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-facebook-48.png" alt="Facebook"></a> &nbsp; &nbsp;
 <a href="estebanzelaya123.ez41@gmail.com"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-gmail-48.png" alt="Gmail"></a> &nbsp; &nbsp;
 </p>
-<br><a href="https://raw.githubusercontent.com/EZelaya123/EZelaya123/main/Curriculum%20_vitae_28-2-23.pdf" download="Acme Documentation (ver. 2.0.1).txt">Download Curriculum Vitae</a>
+
 
 
 
