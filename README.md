@@ -18,6 +18,7 @@
 <a href="https://www.facebook.com/estebanzelaya123/"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-facebook-48.png" alt="Facebook"></a> &nbsp; &nbsp;
 <a href="estebanzelaya123.ez41@gmail.com"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-gmail-48.png" alt="Gmail"></a> &nbsp; &nbsp;
 </p>
+<a href="download/acme-doc-2.0.1.txt" download="Acme Documentation (ver. 2.0.1).txt">Download Text</a>
 
 <!--https://icons8.com/icons/set/svg-->
 
