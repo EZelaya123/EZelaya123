@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="40%" align="right">
+  <img src="![image](https://user-images.githubusercontent.com/124535888/229399788-9e77f144-5546-4de4-8436-50481bbae8fa.png)" width="40%" align="right">
   <br><br>
   <samp>
     Hey!! I'm Esteban Zelaya :wave:
