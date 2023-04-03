@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/esteban-zelaya-arge%C3%B1al-22317313a/"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-linkedin-circled-48.png" alt="LinkedIn"></a> &nbsp; &nbsp;
 <a href="https://www.facebook.com/estebanzelaya123/"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-facebook-48.png" alt="Facebook"></a> &nbsp; &nbsp;
 <a href="estebanzelaya123.ez41@gmail.com"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-gmail-48.png" alt="Gmail"></a> &nbsp; &nbsp;
-  >br>
+  <br>
   <a href="https://raw.githubusercontent.com/EZelaya123/EZelaya123/main/Curriculum%20_vitae_28-2-23.pdf" download="Acme Documentation (ver. 2.0.1).txt">Curriculum Vitae</a>
 </p>
 
