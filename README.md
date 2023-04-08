@@ -1,7 +1,7 @@
 
 <p align="center">
   <img src="Untitled1.jpg" width="70%" align="right">
-    <img src="https://user-images.githubusercontent.com/124535888/229399788-9e77f144-5546-4de4-8436-50481bbae8fa.png" width="20%" align="right">
+    <img src="images2.jpg" width="20%" align="right">
   <br><br>
   <samp>
     Hey!! I'm Esteban Zelaya :wave:
