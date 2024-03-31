@@ -10,7 +10,7 @@
      <br>
     I'm University technician in network installation
     <br>
-    I Student as :Frontend Web Developer!
+    Hability :Frontend Web Developer!
     <br>
   <a href="https://raw.githubusercontent.com/EZelaya123/EZelaya123/main/Curriculum%20_vitae_28-2-23.pdf" download="Acme Documentation (ver. 2.0.1).txt">Curriculum Vitae</a>
 </p>
