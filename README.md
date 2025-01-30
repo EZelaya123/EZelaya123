@@ -12,7 +12,7 @@
     <br>
     Hability :Frontend Web Developer!
     <br>
-  <a href="https://raw.githubusercontent.com/EZelaya123/EZelaya123/main/1.CV_2025.pdf.pdf" download="Acme Documentation (ver. 2.0.1).txt">Curriculum Vitae</a>
+  <a href="https://raw.githubusercontent.com/EZelaya123/EZelaya123/main/1.CV_2025.pdf" download="Acme Documentation (ver. 2.0.1).txt">Curriculum Vitae</a>
 </p>
   </samp>
 </p>
